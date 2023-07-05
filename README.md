@@ -1,2 +1,2 @@
 # MLP-22
-Feature selection
+Feature selection demos
